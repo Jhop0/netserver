@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1420832362 source:/home/adminuser/Documents/CS8803/Test/netserver/server.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+
